@@ -1,0 +1,24 @@
+{
+  "branches": {
+    "main": {
+      "lastMonorepo": "d7347077da1cdeb44761b162ea19342d8207436a",
+      "mirrorTip": "b568032c90f762060eb39ef226942fc13a8d9fb7"
+    }
+  },
+  "imports": {},
+  "m2s": {
+    "107f73a47aa2fa23779d2fbcd52e6ee3118ad4a5": "99c949e595647a1c1a7c10f69e40dae4e6721e2b",
+    "3c8428550deaba503641f8e0eb1448349eabfab6": "f01451d77f435519e25b3acac9d6e7d42b079566",
+    "d5e5117c1ebeaec9a2eca4511efcd461e14695a7": "b014d2e95cb32f3938b0d9323b02468c359a3b87",
+    "d7347077da1cdeb44761b162ea19342d8207436a": "b568032c90f762060eb39ef226942fc13a8d9fb7"
+  },
+  "origins": {},
+  "pendingLands": {},
+  "s2m": {
+    "99c949e595647a1c1a7c10f69e40dae4e6721e2b": "107f73a47aa2fa23779d2fbcd52e6ee3118ad4a5",
+    "b014d2e95cb32f3938b0d9323b02468c359a3b87": "d5e5117c1ebeaec9a2eca4511efcd461e14695a7",
+    "b568032c90f762060eb39ef226942fc13a8d9fb7": "d7347077da1cdeb44761b162ea19342d8207436a",
+    "f01451d77f435519e25b3acac9d6e7d42b079566": "3c8428550deaba503641f8e0eb1448349eabfab6"
+  },
+  "version": 1
+}
