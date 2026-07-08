@@ -1,0 +1,8 @@
+{
+  "name": "@submirror-live/core",
+  "version": "0.2.0",
+  "scripts": {
+    "test": "node -e \"import('./src/index.js').then(() => console.log('ok'))\""
+  },
+  "type": "module"
+}
